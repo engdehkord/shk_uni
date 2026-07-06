@@ -1,0 +1,18 @@
+{
+  "name": "یادمان شهدای دانشگاه شهرکرد",
+  "short_name": "یادمان شهدا",
+  "description": "معرفی، زندگینامه و وصیت‌نامه هشت شهید دانشجوی دانشگاه شهرکرد در دفاع مقدس",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "fa",
+  "dir": "rtl",
+  "background_color": "#F4EEDF",
+  "theme_color": "#11352A",
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
