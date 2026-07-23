@@ -61,7 +61,7 @@
         </a>
       </div>
       
-      <div class="hero-photo1"> <p class="home-footer-note ">یاد و خاطره‌ی شهدا گرامی باد</p></div>
+        <div class="hero-photo1"> <p class="home-footer-note ">یاد و خاطره‌ی شهدا گرامی باد<br>  دکتر فرهاد فرهادیان <br>عضو هیات علمی دانشگاه شهرکرد </p></div>
     `;
   }
 
